@@ -24,3 +24,11 @@ EMNLP 2022 Findings [Paper *coming soon*] [[Code]](https://github.com/wu-qing-15
 Chuang Gan<sup>\*</sup>, **Yi Gu**<sup>\*</sup>, Siyuan Zhou, Jeremy Schwartz, Seth Alter, James Traer, Dan Gutfreund, Joshua B. Tenenbaum, Josh McDermott<sup>\*</sup>, Antonio Torralba<sup>\*</sup>\
 CVPR 2022 [[Website]](http://fallen-object.csail.mit.edu) [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Gan_Finding_Fallen_Objects_via_Asynchronous_Audio-Visual_Integration_CVPR_2022_paper.pdf) [[Code]](https://github.com/chuangg/find_fallen_objects)
 
+Honors and Awards
+======
+Zhiyuan Outstanding Student Scholarship, 2022\
+National Scholarship of P.R. China, 2021\
+Rong Chang Scholarship in Technological Innovation, 2020\
+Rong Chang Scholarship in Technological Innovation, 2019\
+*Gold Medal*, ICPC 2019 Xuzhou Site\
+*Champion*, ICPC 2018 Singapore Site\
