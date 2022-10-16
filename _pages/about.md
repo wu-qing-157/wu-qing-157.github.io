@@ -11,7 +11,7 @@ redirect_from:
 I'm Yi Gu (顾逸, gù yì), a first year Ph.D. student at [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) of UC San Diego.
 I'm fortunate to be advised by [Prof. Zhiting Hu](https://zhiting.ucsd.edu).
 
-Prior to joining CMU, I obtained my B.E. degree at [ACM Honors Class](https://acm.sjtu.edu.cn/home),
+Prior to joining UCSD, I obtained my B.E. degree at [ACM Honors Class](https://acm.sjtu.edu.cn/home),
 [Shanghai Jiao Tong University](https://www.sjtu.edu.cn) in June 2022,
 advised by [Prof. Yong Yu](https://apex.sjtu.edu.cn/members/yyu).
 
