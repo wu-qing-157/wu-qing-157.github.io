@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Yi Gu (顾逸, Gù Yì), a first year Ph.D. student at [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) of UC San Diego.
+I'm Yi Gu (顾逸, gù yì), a first year Ph.D. student at [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) of UC San Diego.
 I'm fortunate to be advised by [Prof. Zhiting Hu](https://zhiting.ucsd.edu).
 
 Prior to joining CMU, I obtained my B.E. degree at [ACM Honors Class](https://acm.sjtu.edu.cn/home),
