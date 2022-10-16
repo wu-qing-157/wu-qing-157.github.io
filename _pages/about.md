@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student at [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu), [UC San Diego](https://www.ucsd.edu),
-advised by [Prof. Zhiting Hu](https://zhiting.ucsd.edu).
-I obtained my B.E. degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn) in 2018 as a member of the ACM Class.
+I'm Yi Gu (顾逸, Gù Yì), a first year Ph.D. student at [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) of UC San Diego.
+I'm fortunate to be advised by [Prof. Zhiting Hu](https://zhiting.ucsd.edu).
+
+Prior to joining CMU, I obtained my B.E. degree at [ACM Honors Class](https://acm.sjtu.edu.cn/home),
+[Shanghai Jiao Tong University](https://www.sjtu.edu.cn) in June 2022,
+advised by [Prof. Yong Yu](https://apex.sjtu.edu.cn/members/yyu).
 
 My research interest lies in natural language processing and machine learning.
+I am currently working on designing approaches for language models to learn knowledges from specific world models.
 
 Publications
 ======
