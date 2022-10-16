@@ -31,4 +31,4 @@ National Scholarship of P.R. China, 2021\
 Rong Chang Scholarship in Technological Innovation, 2020\
 Rong Chang Scholarship in Technological Innovation, 2019\
 *Gold Medal*, ICPC 2019 Xuzhou Site\
-*Champion*, ICPC 2018 Singapore Site\
+*Champion*, ICPC 2018 Singapore Site
