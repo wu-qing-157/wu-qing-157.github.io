@@ -20,7 +20,7 @@ Publications
 **Yi Gu**<sup>\*</sup>, Shunyu Yao<sup>\*</sup>, Chuang Gan, Joshua B. Tenenbaum, Mo Yu\
 EMNLP 2022 Findings [Paper *coming soon*] [[Code]](https://github.com/wu-qing-157/textgame-revisiting-role)
 
-**Finding Fallen Objects Via Asynchronous Audio-Visual Integration]**\
+**Finding Fallen Objects Via Asynchronous Audio-Visual Integration**\
 Chuang Gan<sup>\*</sup>, **Yi Gu**<sup>\*</sup>, Siyuan Zhou, Jeremy Schwartz, Seth Alter, James Traer, Dan Gutfreund, Joshua B. Tenenbaum, Josh McDermott<sup>\*</sup>, Antonio Torralba<sup>\*</sup>\
 CVPR 2022 [[Website]](http://fallen-object.csail.mit.edu) [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Gan_Finding_Fallen_Objects_via_Asynchronous_Audio-Visual_Integration_CVPR_2022_paper.pdf) [[Code]](https://github.com/chuangg/find_fallen_objects)
 
