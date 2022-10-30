@@ -22,7 +22,7 @@ Publications
 ======
 **Revisiting the Roles of "Text" in Text Games**\
 **Yi Gu**<sup>\*</sup>, Shunyu Yao<sup>\*</sup>, Chuang Gan, Joshua B. Tenenbaum, Mo Yu\
-EMNLP 2022 Findings [Paper *coming soon*] [[Code]](https://github.com/wu-qing-157/textgame-revisiting-role)
+EMNLP 2022 Findings [[Paper]](https://arxiv.org/abs/2210.08384) [[Code]](https://github.com/wu-qing-157/textgame-revisiting-role)
 
 **Finding Fallen Objects Via Asynchronous Audio-Visual Integration**\
 Chuang Gan<sup>\*</sup>, **Yi Gu**<sup>\*</sup>, Siyuan Zhou, Jeremy Schwartz, Seth Alter, James Traer, Dan Gutfreund, Joshua B. Tenenbaum, Josh McDermott<sup>\*</sup>, Antonio Torralba<sup>\*</sup>\
