@@ -11,7 +11,7 @@ title                    : "Yi Gu"
 title_separator          : "-"
 name                     : &name "Yi Gu"
 description              : &description "PhD at UC San Diego"
-url                      : https://wu-qing-157.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.yigu.page # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wu-qing-157/wu-qing-157.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,7 +83,7 @@ author:
   name             : "Yi Gu"
   avatar           : "avatar.png"
   bio              : "PhD student at UC San Diego"
-  location         :
+  location         : 'San Diego'
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=f38t-oQAAAAJ&hl=en"
