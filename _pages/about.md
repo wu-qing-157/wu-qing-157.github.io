@@ -20,13 +20,21 @@ I am currently working on designing approaches for language models to learn know
 
 Publications
 ======
+**Reasoning with Language Model is Planning with World Model**\
+Shibo Hao<sup>\*</sup>, **Yi Gu**<sup>\*</sup>, Haodi Ma, Joshua Jiahua Hong, Zhen Wang, Daisy Zhe Wang, Zhiting Hu\
+*Preprint* [[Paper]](/files/reasoning-with-language-model-is-planning-with-world-model-20230523.pdf)
+
+**Language Models Meet World Models: Embodied Experiences Enhance Language Models**\
+Jiannan Xiang<sup>\*</sup>, Tianhua Tao<sup>\*</sup>, **Yi Gu**, Tianmin Shu, Zirui Wang, Zichao Yang, Zhiting Hu\
+*Preprint* [[Paper]](https://arxiv.org/abs/2305.10626)
+
 **Revisiting the Roles of "Text" in Text Games**\
 **Yi Gu**<sup>\*</sup>, Shunyu Yao<sup>\*</sup>, Chuang Gan, Joshua B. Tenenbaum, Mo Yu\
-EMNLP 2022 Findings [[Paper]](https://arxiv.org/abs/2210.08384) [[Code]](https://github.com/wu-qing-157/textgame-revisiting-role)
+*Findings of EMNLP 2022* [[Paper]](https://arxiv.org/abs/2210.08384) [[Code]](https://github.com/wu-qing-157/textgame-revisiting-role)
 
 **Finding Fallen Objects Via Asynchronous Audio-Visual Integration**\
 Chuang Gan<sup>\*</sup>, **Yi Gu**<sup>\*</sup>, Siyuan Zhou, Jeremy Schwartz, Seth Alter, James Traer, Dan Gutfreund, Joshua B. Tenenbaum, Josh McDermott<sup>\*</sup>, Antonio Torralba<sup>\*</sup>\
-CVPR 2022 [[Website]](http://fallen-object.csail.mit.edu) [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Gan_Finding_Fallen_Objects_via_Asynchronous_Audio-Visual_Integration_CVPR_2022_paper.pdf) [[Code]](https://github.com/chuangg/find_fallen_objects)
+*CVPR 2022* [[Website]](http://fallen-object.csail.mit.edu) [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Gan_Finding_Fallen_Objects_via_Asynchronous_Audio-Visual_Integration_CVPR_2022_paper.pdf) [[Code]](https://github.com/chuangg/find_fallen_objects)
 
 Honors and Awards
 ======
