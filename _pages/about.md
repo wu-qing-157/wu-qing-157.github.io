@@ -22,7 +22,7 @@ Publications
 ======
 **Reasoning with Language Model is Planning with World Model**\
 Shibo Hao<sup>\*</sup>, **Yi Gu**<sup>\*</sup>, Haodi Ma, Joshua Jiahua Hong, Zhen Wang, Daisy Zhe Wang, Zhiting Hu\
-*Preprint* [[Paper]](/redirect/reasoning-with-language-model-is-planning-with-world-model-pdf)
+*Preprint* [[Paper]](/s/rap)
 
 **Language Models Meet World Models: Embodied Experiences Enhance Language Models**\
 Jiannan Xiang<sup>\*</sup>, Tianhua Tao<sup>\*</sup>, **Yi Gu**, Tianmin Shu, Zirui Wang, Zichao Yang, Zhiting Hu\
