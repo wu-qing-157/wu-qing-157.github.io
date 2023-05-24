@@ -11,7 +11,7 @@ redirect_from:
 I'm Yi Gu (顾逸, gù yì), a first year Ph.D. student at [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) of UC San Diego.
 I'm fortunate to be advised by [Prof. Zhiting Hu](https://zhiting.ucsd.edu).
 
-Prior to joining UCSD, I obtained my B.E. degree at [ACM Honors Class](https://acm.sjtu.edu.cn/home),
+Prior to joining UCSD, I obtained my B.ENG. degree at [ACM Honors Class](https://acm.sjtu.edu.cn/home),
 [Shanghai Jiao Tong University](https://www.sjtu.edu.cn) in June 2022,
 advised by [Prof. Yong Yu](https://apex.sjtu.edu.cn/members/yyu).
 
@@ -22,7 +22,7 @@ Publications
 ======
 **Reasoning with Language Model is Planning with World Model**\
 Shibo Hao<sup>\*</sup>, **Yi Gu**<sup>\*</sup>, Haodi Ma, Joshua Jiahua Hong, Zhen Wang, Daisy Zhe Wang, Zhiting Hu\
-*Preprint* [[Paper]](/files/reasoning-with-language-model-is-planning-with-world-model-20230523.pdf)
+*Preprint* [[Paper]](/redirect/reasoning-with-language-model-is-planning-with-world-model-20230523-pdf)
 
 **Language Models Meet World Models: Embodied Experiences Enhance Language Models**\
 Jiannan Xiang<sup>\*</sup>, Tianhua Tao<sup>\*</sup>, **Yi Gu**, Tianmin Shu, Zirui Wang, Zichao Yang, Zhiting Hu\
