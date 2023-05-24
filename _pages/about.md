@@ -16,7 +16,7 @@ Prior to joining UCSD, I obtained my B.E. degree at [ACM Honors Class](https://a
 advised by [Prof. Yong Yu](https://apex.sjtu.edu.cn/members/yyu).
 
 My research interest lies in natural language processing and machine learning.
-I am currently working on designing approaches for language models to learn knowledges from specific world models.
+I am currently focusing on language models and interations.
 
 Publications
 ======
