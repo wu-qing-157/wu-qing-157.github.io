@@ -29,7 +29,7 @@ Jiannan Xiang<sup>\*</sup>, Tianhua Tao<sup>\*</sup>, **Yi Gu**, Tianmin Shu, Zi
 *Preprint* [[Paper]](https://arxiv.org/abs/2305.10626) [[Code]](https://github.com/szxiangjn/world-model-for-language-model)
 
 **JECC: Commonsense Reasoning Tasks Derived from Interactive Fictions**\
-Mo Yu<sup>\*</sup>, **Yi Gu**<sup>\*</sup>, Xiaoxiao Guo, Yufei Feng, Xiaodan Zhu, Michael Greenspan, Murray Campbell, Chuang Gan
+Mo Yu<sup>\*</sup>, **Yi Gu**<sup>\*</sup>, Xiaoxiao Guo, Yufei Feng, Xiaodan Zhu, Michael Greenspan, Murray Campbell, Chuang Gan\
 *Findings of ACL 2023* [[Paper]](https://arxiv.org/abs/2210.15456) [[Code]](https://github.com/Gorov/zucc)
 
 **Revisiting the Roles of "Text" in Text Games**\
