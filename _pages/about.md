@@ -26,7 +26,7 @@ Shibo Hao<sup>\*</sup>, **Yi Gu**<sup>\*</sup>, Haodi Ma, Joshua Jiahua Hong, Zh
 
 **Language Models Meet World Models: Embodied Experiences Enhance Language Models**\
 Jiannan Xiang<sup>\*</sup>, Tianhua Tao<sup>\*</sup>, **Yi Gu**, Tianmin Shu, Zirui Wang, Zichao Yang, Zhiting Hu\
-*Preprint* [[Paper]](https://arxiv.org/abs/2305.10626) [[Code]](https://github.com/szxiangjn/world-model-for-language-model)
+*NeurIPS 2023* [[Paper]](https://arxiv.org/abs/2305.10626) [[Code]](https://github.com/szxiangjn/world-model-for-language-model)
 
 **JECC: Commonsense Reasoning Tasks Derived from Interactive Fictions**\
 Mo Yu<sup>\*</sup>, **Yi Gu**<sup>\*</sup>, Xiaoxiao Guo, Yufei Feng, Xiaodan Zhu, Michael Greenspan, Murray Campbell, Chuang Gan\
