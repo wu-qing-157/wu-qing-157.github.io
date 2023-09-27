@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Yi Gu (顾逸, gù yì), a first year Ph.D. student at [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) of UC San Diego.
+I'm Yi Gu (顾逸, gù yì), a second year Ph.D. student at [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) of UC San Diego.
 I'm fortunate to be advised by [Prof. Zhiting Hu](https://zhiting.ucsd.edu).
 
 Prior to joining UCSD, I obtained my B.ENG. degree at [ACM Honors Class](https://acm.sjtu.edu.cn/home),
@@ -46,5 +46,5 @@ Zhiyuan Outstanding Student Scholarship, 2022\
 National Scholarship of P.R. China, 2021\
 Rong Chang Scholarship in Technological Innovation, 2020\
 Rong Chang Scholarship in Technological Innovation, 2019\
-*Gold Medal*, ICPC 2019 Xuzhou Site\
-*Champion*, ICPC 2018 Singapore Site
+*Gold Medal*, The International Collegiate Programming Contest (ICPC) 2019 Xuzhou Site\
+*Champion*, The International Collegiate Programming Contest (ICPC) 2018 Singapore Site
