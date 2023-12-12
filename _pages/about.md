@@ -20,6 +20,10 @@ I am currently focusing on language models and interations.
 
 Publications
 ======
+**LLM360: Towards Fully Transparent Open-Source LLMs**\
+Zhengzhong Liu, Aurick Qiao, Willie Neiswanger, Hongyi Wang, Bowen Tan, Tianhua Tao, Junbo Li, Yuqi Wang, Suqi Sun, Omkar Pangarkar, Richard Fan, **Yi Gu**, Victor Miller, Yonghao Zhuang, Guowei He, Haonan Li, Fajri Koto, Liping Tang, Nikhil Ranjan, Zhiqiang Shen, Xuguang Ren, Roberto Iriondo, Cun Mu, Zhiting Hu, Mark Schulze, Preslav Nakov, Tim Baldwin, Eric P. Xing
+*Preprint* [[Blogpost]](https://www.llm360.ai/blog/introducing-llm360-fully-transparent-open-source-llms.html) [[Website]](https://www.llm360.ai) [[Code]](https://github.com/llm360) [[Models]](https://huggingface.co/LLM360) [[Paper]](https://arxiv.org/abs/2312.06550)
+
 **Reasoning with Language Model is Planning with World Model**\
 Shibo Hao<sup>\*</sup>, **Yi Gu**<sup>\*</sup>, Haodi Ma, Joshua Jiahua Hong, Zhen Wang, Daisy Zhe Wang, Zhiting Hu\
 *EMNLP 2023* [[Paper]](https://arxiv.org/abs/2305.14992) [[Code]](https://github.com/Ber666/RAP)
