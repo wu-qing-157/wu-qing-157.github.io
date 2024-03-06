@@ -63,3 +63,6 @@ Rong Chang Scholarship in Technological Innovation, 2020\
 Rong Chang Scholarship in Technological Innovation, 2019\
 *Gold Medal*, The International Collegiate Programming Contest (ICPC) 2019 Xuzhou Site\
 *Champion*, The International Collegiate Programming Contest (ICPC) 2018 Singapore Site
+
+
+<sub><sup>Updated on Mar 6, 2024</sup></sub>
