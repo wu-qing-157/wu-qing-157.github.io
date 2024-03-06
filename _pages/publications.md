@@ -37,9 +37,8 @@ Mo Yu<sup>\*</sup>, **Yi Gu**<sup>\*</sup>, Xiaoxiao Guo, Yufei Feng, Xiaodan Zh
 Chuang Gan<sup>\*</sup>, **Yi Gu**<sup>\*</sup>, Siyuan Zhou, Jeremy Schwartz, Seth Alter, James Traer, Dan Gutfreund, Joshua B. Tenenbaum, Josh McDermott<sup>\*</sup>, Antonio Torralba<sup>\*</sup>\
 ***CVPR 2022*** [[Paper]](https://arxiv.org/abs/2207.03483) [[Code]](https://github.com/chuangg/find_fallen_objects)
 
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}

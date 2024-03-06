@@ -1,4 +1,6 @@
+# Ignore the contents of the _site directory
 _site/
+<<<<<<< HEAD
 .DS_Store
 Gemfile.lock
 node_modules/
@@ -6,3 +8,8 @@ package-lock.json
 .idea/
 .fleet/
 .sass-cache/
+=======
+
+# Ignore the Gemfile that is generated
+Gemfile.lock
+>>>>>>> fork-base/master
