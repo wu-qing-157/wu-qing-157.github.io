@@ -6,27 +6,36 @@ redirect_from:
 - /pub
 ---
 
+## 2024
+**LLM Reasoners: New Evaluation, Library, and Analysis of Step-by-Step Reasoning with Large Language Models**\
+Shibo Hao<sup>\*</sup>, **Yi Gu**<sup>\*</sup>, Haotian Luo, Tianyang Liu, Xiyan Shao, Xinyuan Wang, Shuhua Xie, Haodi Ma, Adithya Samavedhi, Qiyue Gao, Zhen Wang, Zhiting Hu\
+[[Website]](https://www.llm-reasoners.net) [[Library]](https://github.com/Ber666/llm-reasoners) \[Paper (coming soon)\]
+
 ## 2023
 **Reasoning with Language Model is Planning with World Model**\
 Shibo Hao<sup>\*</sup>, **Yi Gu**<sup>\*</sup>, Haodi Ma, Joshua Jiahua Hong, Zhen Wang, Daisy Zhe Wang, Zhiting Hu\
-*Preprint* [[Paper]](https://arxiv.org/abs/2305.14992) [[Code]](https://github.com/Ber666/RAP)
+***EMNLP 2023*** [[Paper]](https://arxiv.org/abs/2305.14992) [[Code]](https://github.com/Ber666/RAP) [[State of AI Report 2023]](https://docs.google.com/presentation/d/156WpBF_rGvf4Ecg19oM1fyR51g4FAmHV3Zs0WLukrLQ/edit#slide=id.g24daeb7f4f0_0_3930)
+
+**LLM360: Towards Fully Transparent Open-Source LLMs**\
+Zhengzhong Liu, Aurick Qiao, Willie Neiswanger, Hongyi Wang, Bowen Tan, Tianhua Tao, Junbo Li, Yuqi Wang, Suqi Sun, Omkar Pangarkar, Richard Fan, **Yi Gu**, Victor Miller, Yonghao Zhuang, Guowei He, Haonan Li, Fajri Koto, Liping Tang, Nikhil Ranjan, Zhiqiang Shen, Xuguang Ren, Roberto Iriondo, Cun Mu, Zhiting Hu, Mark Schulze, Preslav Nakov, Tim Baldwin, Eric P. Xing
+***Preprint*** [[Blogpost]](https://www.llm360.ai/blog/introducing-llm360-fully-transparent-open-source-llms.html) [[Website]](https://www.llm360.ai) [[Code]](https://github.com/llm360) [[Models]](https://huggingface.co/LLM360) [[Paper]](https://arxiv.org/abs/2312.06550)
 
 **Language Models Meet World Models: Embodied Experiences Enhance Language Models**\
 Jiannan Xiang<sup>\*</sup>, Tianhua Tao<sup>\*</sup>, **Yi Gu**, Tianmin Shu, Zirui Wang, Zichao Yang, Zhiting Hu\
-*Preprint* [[Paper]](https://arxiv.org/abs/2305.10626) [[Code]](https://github.com/szxiangjn/world-model-for-language-model)
+***NeurIPS 2023*** [[Paper]](https://arxiv.org/abs/2305.10626) [[Code]](https://github.com/szxiangjn/world-model-for-language-model)
 
 **JECC: Commonsense Reasoning Tasks Derived from Interactive Fictions**\
 Mo Yu<sup>\*</sup>, **Yi Gu**<sup>\*</sup>, Xiaoxiao Guo, Yufei Feng, Xiaodan Zhu, Michael Greenspan, Murray Campbell, Chuang Gan\
-*Findings of ACL 2023* [[Paper]](https://arxiv.org/abs/2210.15456) [[Code]](https://github.com/Gorov/zucc)
+***Findings of ACL 2023*** [[Paper]](https://arxiv.org/abs/2210.15456) [[Code]](https://github.com/Gorov/zucc)
 
 ## 2022
 **Revisiting the Roles of "Text" in Text Games**\
 **Yi Gu**<sup>\*</sup>, Shunyu Yao<sup>\*</sup>, Chuang Gan, Joshua B. Tenenbaum, Mo Yu\
-*Findings of EMNLP 2022* [[Paper]](https://arxiv.org/abs/2210.08384) [[Code]](https://github.com/wu-qing-157/textgame-revisiting-role)
+***Findings of EMNLP 2022*** [[Paper]](https://arxiv.org/abs/2210.08384) [[Code]](https://github.com/wu-qing-157/textgame-revisiting-role)
 
 **Finding Fallen Objects Via Asynchronous Audio-Visual Integration**\
 Chuang Gan<sup>\*</sup>, **Yi Gu**<sup>\*</sup>, Siyuan Zhou, Jeremy Schwartz, Seth Alter, James Traer, Dan Gutfreund, Joshua B. Tenenbaum, Josh McDermott<sup>\*</sup>, Antonio Torralba<sup>\*</sup>\
-*CVPR 2022* [[Paper]](https://arxiv.org/abs/2207.03483) [[Code]](https://github.com/chuangg/find_fallen_objects)
+***CVPR 2022*** [[Paper]](https://arxiv.org/abs/2207.03483) [[Code]](https://github.com/chuangg/find_fallen_objects)
 
 
 {% if author.googlescholar %}
