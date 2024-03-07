@@ -25,7 +25,7 @@ Publications
 ======
 <a name="reasoners"></a>
 **LLM Reasoners: New Evaluation, Library, and Analysis of Step-by-Step Reasoning with Large Language Models**\
-Shibo Hao<sup>\*</sup>, **Yi Gu**<sup>\*</sup>, Haotian Luo, Tianyang Liu, Xiyan Shao, Xinyuan Wang, Shuhua Xie, Haodi Ma, Adithya Samavedhi, Qiyue Gao, Zhen Wang, Zhiting Hu\
+Shibo Hao<sup>\*</sup>, **Yi Gu**<sup>\*</sup>, Haotian Luo<sup>\*</sup>, Tianyang Liu, Xiyan Shao, Xinyuan Wang, Shuhua Xie, Haodi Ma, Adithya Samavedhi, Qiyue Gao, Zhen Wang, Zhiting Hu\
 [[Website]](https://www.llm-reasoners.net) [[Library]](https://github.com/Ber666/llm-reasoners) \[Paper (coming soon)\]
 
 <a name="rap"></a>
