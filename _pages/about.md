@@ -18,11 +18,16 @@ My research interest lies in foundational models and reasonings.
 In particular,
 I am recently working on the reasoning ability of nowadays LLMs ([RAP](#rap), [Reasoners](#reasoners)),
 and also general pre-training and checkpoint-analysis of them ([LLM360](#llm360)).
-I am also building World Models ([LM-WM](#lm-wm), [RAP](#rap)),
-aiming for the next-generation machine reasoning beyond LLMs.
+I am also building World Models ([Pandora](#pandora)),
+aiming for the next-generation machine reasoning ([RAP](#rap)) beyond LLMs.
 
 Publications
 ======
+<a name="pandora"></a>
+**Pandora: Towards General World Model with Natural Language Actions and Video States**\
+Jiannan Xiang<sup>\*</sup>, Guangyi Liu<sup>\*</sup>, **Yi Gu**<sup>\*</sup>， Qiyue Gao, Yuting Ning, Yuheng Zha, Zeyu Feng, Tianhua Tao, Shibo Hao, Yemin Shi, Zhengzhong Liu， Eric P. Xing, Zhiting Hu\
+***Preprint*** [[Website]](https://world-model.ai) [[Paper]](https://world-model.maitrix.org/assets/pandora.pdf)
+
 <a name="reasoners"></a>
 **LLM Reasoners: New Evaluation, Library, and Analysis of Step-by-Step Reasoning with Large Language Models**\
 Shibo Hao<sup>\*</sup>, **Yi Gu**<sup>\*</sup>, Haotian Luo<sup>\*</sup>, Tianyang Liu, Xiyan Shao, Xinyuan Wang, Shuhua Xie, Haodi Ma, Adithya Samavedhi, Qiyue Gao, Zhen Wang, Zhiting Hu\
