@@ -25,7 +25,7 @@ Publications
 ======
 <a name="pandora"></a>
 **Pandora: Towards General World Model with Natural Language Actions and Video States**\
-Jiannan Xiang<sup>\*</sup>, Guangyi Liu<sup>\*</sup>, **Yi Gu**<sup>\*</sup>， Qiyue Gao, Yuting Ning, Yuheng Zha, Zeyu Feng, Tianhua Tao, Shibo Hao, Yemin Shi, Zhengzhong Liu， Eric P. Xing, Zhiting Hu\
+Jiannan Xiang<sup>\*</sup>, Guangyi Liu<sup>\*</sup>, **Yi Gu**<sup>\*</sup>, Qiyue Gao, Yuting Ning, Yuheng Zha, Zeyu Feng, Tianhua Tao, Shibo Hao, Yemin Shi, Zhengzhong Liu， Eric P. Xing, Zhiting Hu\
 ***Preprint*** [[Website]](https://world-model.ai) [[Paper]](https://world-model.maitrix.org/assets/pandora.pdf)
 
 <a name="reasoners"></a>
