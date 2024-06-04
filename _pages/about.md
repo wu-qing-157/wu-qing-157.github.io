@@ -49,4 +49,4 @@ Rong Chang Scholarship in Technological Innovation, 2019\
 *Champion*, The International Collegiate Programming Contest (ICPC) 2018 Singapore Site
 
 
-<sub><sup>Updated on Mar 6, 2024</sup></sub>
+<sub><sup>Updated on June 4, 2024</sup></sub>
