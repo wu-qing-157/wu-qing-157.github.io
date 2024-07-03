@@ -37,6 +37,11 @@ Shibo Hao\*, **Yi Gu**\*, Haotian Luo\*, Tianyang Liu, Xiyan Shao, Xinyuan Wang,
 Shibo Hao\*, **Yi Gu**\*, Haodi Ma, Joshua Jiahua Hong, Zhen Wang, Daisy Zhe Wang, Zhiting Hu\
 ***EMNLP 2023*** [[Paper]](https://arxiv.org/abs/2305.14992) [[Code]](https://github.com/Ber666/RAP) [[State of AI Report 2023]](https://docs.google.com/presentation/d/156WpBF_rGvf4Ecg19oM1fyR51g4FAmHV3Zs0WLukrLQ/edit#slide=id.g24daeb7f4f0_0_3930)
 
+<a name="k2"></a>
+**LLM360 K2-65B: Scaling Up Fully Transparent Open-Source LLMs**\
+Zhengzhong Liu, Bowen Tan, Hongyi Wang, Willie Neiswanger, Tianhua Tao, Haonan Li, Fajri Koto, Yuqi Wang, Suqi Sun, Omkar Pangarkar, Richard Fan, **Yi Gu**, Victor Miller, Liqun Ma, Liping Tang, Nikhil Ranjan, Yonghao Zhuang, Guowei He, Renxi Wang,Mingkai Deng, Robin Algayres, Yuanzhi Li, Zhiqiang Shen, Preslav Nakov, Eric Xing\
+**Preprint** [[Blog]](https://www.llm360.ai/blog/several-new-releases-to-further-our-mission.html) [[Paper]](https://www.llm360.ai/paper2.pdf) [[Weights]](https://huggingface.co/LLM360/K2)
+
 \* indicates equal contribution
 
 Honors and Awards

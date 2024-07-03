@@ -12,6 +12,11 @@ redirect_from:
 Jiannan Xiang<sup>\*</sup>, Guangyi Liu<sup>\*</sup>, **Yi Gu**<sup>\*</sup>, Qiyue Gao, Yuting Ning, Yuheng Zha, Zeyu Feng, Tianhua Tao, Shibo Hao, Yemin Shi, Zhengzhong Liu， Eric P. Xing, Zhiting Hu\
 ***Preprint*** [[Website]](https://world-model.ai) [[YouTube]](https://www.youtube.com/watch?v=nSKqr1Fl91g) [[Code]](https://github.com/maitrix-org/Pandora) [[Paper]](https://world-model.maitrix.org/assets/pandora.pdf)
 
+<a name="k2"></a>
+**LLM360 K2-65B: Scaling Up Fully Transparent Open-Source LLMs**\
+Zhengzhong Liu, Bowen Tan, Hongyi Wang, Willie Neiswanger, Tianhua Tao, Haonan Li, Fajri Koto, Yuqi Wang, Suqi Sun, Omkar Pangarkar, Richard Fan, **Yi Gu**, Victor Miller, Liqun Ma, Liping Tang, Nikhil Ranjan, Yonghao Zhuang, Guowei He, Renxi Wang,Mingkai Deng, Robin Algayres, Yuanzhi Li, Zhiqiang Shen, Preslav Nakov, Eric Xing\
+**Preprint** [[Blog]](https://www.llm360.ai/blog/several-new-releases-to-further-our-mission.html) [[Paper]](https://www.llm360.ai/paper2.pdf) [[Weights]](https://huggingface.co/LLM360/K2)
+
 <a name="reasoners"></a>
 **LLM Reasoners: New Evaluation, Library, and Analysis of Step-by-Step Reasoning with Large Language Models**\
 Shibo Hao<sup>\*</sup>, **Yi Gu**<sup>\*</sup>, Haotian Luo<sup>\*</sup>, Tianyang Liu, Xiyan Shao, Xinyuan Wang, Shuhua Xie, Haodi Ma, Adithya Samavedhi, Qiyue Gao, Zhen Wang, Zhiting Hu\
