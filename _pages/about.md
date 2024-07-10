@@ -30,7 +30,7 @@ Jiannan Xiang\*, Guangyi Liu\*, **Yi Gu**\*, Qiyue Gao, Yuting Ning, Yuheng Zha,
 <a name="reasoners"></a>
 **LLM Reasoners: New Evaluation, Library, and Analysis of Step-by-Step Reasoning with Large Language Models**\
 Shibo Hao\*, **Yi Gu**\*, Haotian Luo\*, Tianyang Liu, Xiyan Shao, Xinyuan Wang, Shuhua Xie, Haodi Ma, Adithya Samavedhi, Qiyue Gao, Zhen Wang, Zhiting Hu\
-***Preprint*** [[Website]](https://www.llm-reasoners.net) [[Library]](https://github.com/maitrix-org/llm-reasoners) [[Paper]](https://arxiv.org/abs/2404.05221)
+***COLM 2024*** [[Website]](https://www.llm-reasoners.net) [[Library]](https://github.com/maitrix-org/llm-reasoners) [[Paper]](https://arxiv.org/abs/2404.05221)
 
 <a name="rap"></a>
 **Reasoning with Language Model is Planning with World Model**\
