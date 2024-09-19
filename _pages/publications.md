@@ -9,7 +9,7 @@ redirect_from:
 ## 2024
 <a name="pandora"></a>
 **Pandora: Towards General World Model with Natural Language Actions and Video States**\
-Jiannan Xiang<sup>\*</sup>, Guangyi Liu<sup>\*</sup>, **Yi Gu**<sup>\*</sup>, Qiyue Gao, Yuting Ning, Yuheng Zha, Zeyu Feng, Tianhua Tao, Shibo Hao, Yemin Shi, Zhengzhong Liu， Eric P. Xing, Zhiting Hu\
+Jiannan Xiang<sup>\*</sup>, Guangyi Liu<sup>\*</sup>, **Yi Gu**<sup>\*</sup>, Qiyue Gao, Yuting Ning, Yuheng Zha, Zeyu Feng, Tianhua Tao, Shibo Hao, Yemin Shi, Zhengzhong Liu, Eric P. Xing, Zhiting Hu\
 ***Preprint*** [[Website]](https://world-model.ai) [[YouTube]](https://www.youtube.com/watch?v=nSKqr1Fl91g) [[Code]](https://github.com/maitrix-org/Pandora) [[Paper]](https://world-model.maitrix.org/assets/pandora.pdf)
 
 <a name="k2"></a>
@@ -21,6 +21,10 @@ Zhengzhong Liu, Bowen Tan, Hongyi Wang, Willie Neiswanger, Tianhua Tao, Haonan L
 **LLM Reasoners: New Evaluation, Library, and Analysis of Step-by-Step Reasoning with Large Language Models**\
 Shibo Hao<sup>\*</sup>, **Yi Gu**<sup>\*</sup>, Haotian Luo<sup>\*</sup>, Tianyang Liu, Xiyan Shao, Xinyuan Wang, Shuhua Xie, Haodi Ma, Adithya Samavedhi, Qiyue Gao, Zhen Wang, Zhiting Hu\
 ***COLM 2024*** [[Website]](https://www.llm-reasoners.net) [[Library]](https://github.com/maitrix-org/llm-reasoners) [[Paper]](https://arxiv.org/abs/2404.05221)
+
+**Text Grafting: Near-Distribution Weak Supervision for Minority Classes in Text Classification**\
+Letian Peng, **Yi Gu**, Chengyu Dong, Zihan Wang, Jingbo Shang\
+***Preprint*** [[Paper]](https://arxiv.org/abs/2406.11115)
 
 **LLM360: Towards Fully Transparent Open-Source LLMs**\
 Zhengzhong Liu, Aurick Qiao, Willie Neiswanger, Hongyi Wang, Bowen Tan, Tianhua Tao, Junbo Li, Yuqi Wang, Suqi Sun, Omkar Pangarkar, Richard Fan, **Yi Gu**, Victor Miller, Yonghao Zhuang, Guowei He, Haonan Li, Fajri Koto, Liping Tang, Nikhil Ranjan, Zhiqiang Shen, Xuguang Ren, Roberto Iriondo, Cun Mu, Zhiting Hu, Mark Schulze, Preslav Nakov, Tim Baldwin, Eric P. Xing\
