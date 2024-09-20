@@ -24,7 +24,7 @@ Shibo Hao<sup>\*</sup>, **Yi Gu**<sup>\*</sup>, Haotian Luo<sup>\*</sup>, Tianya
 
 **Text Grafting: Near-Distribution Weak Supervision for Minority Classes in Text Classification**\
 Letian Peng, **Yi Gu**, Chengyu Dong, Zihan Wang, Jingbo Shang\
-***Preprint*** [[Paper]](https://arxiv.org/abs/2406.11115)
+***EMNLP 2024*** [[Paper]](https://arxiv.org/abs/2406.11115)
 
 **LLM360: Towards Fully Transparent Open-Source LLMs**\
 Zhengzhong Liu, Aurick Qiao, Willie Neiswanger, Hongyi Wang, Bowen Tan, Tianhua Tao, Junbo Li, Yuqi Wang, Suqi Sun, Omkar Pangarkar, Richard Fan, **Yi Gu**, Victor Miller, Yonghao Zhuang, Guowei He, Haonan Li, Fajri Koto, Liping Tang, Nikhil Ranjan, Zhiqiang Shen, Xuguang Ren, Roberto Iriondo, Cun Mu, Zhiting Hu, Mark Schulze, Preslav Nakov, Tim Baldwin, Eric P. Xing\
