@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Yi Gu (顾逸, gù yì), a second year Ph.D. student in Data Science at [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) of UC San Diego.
+I'm Yi Gu (顾逸, gù yì), a third year Ph.D. student in Data Science at [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) of UC San Diego.
 I'm fortunate to be advised by [Prof. Zhiting Hu](https://zhiting.ucsd.edu).
 
 Prior to joining UCSD, I obtained my B.ENG. degree at [ACM Honors Class](https://acm.sjtu.edu.cn/home),
@@ -37,6 +37,10 @@ Shibo Hao\*, **Yi Gu**\*, Haotian Luo\*, Tianyang Liu, Xiyan Shao, Xinyuan Wang,
 Shibo Hao\*, **Yi Gu**\*, Haodi Ma, Joshua Jiahua Hong, Zhen Wang, Daisy Zhe Wang, Zhiting Hu\
 ***EMNLP 2023*** [[Paper]](https://arxiv.org/abs/2305.14992) [[Code]](https://github.com/Ber666/RAP) [[State of AI Report 2023]](https://docs.google.com/presentation/d/156WpBF_rGvf4Ecg19oM1fyR51g4FAmHV3Zs0WLukrLQ/edit#slide=id.g24daeb7f4f0_0_3930)
 
+**Decentralized Arena via Collective LLM Intelligence: Building Automated, Robust, and Transparent LLM Evaluation for Numerous Dimensions**\
+Yanbin Yin, Zhen Wang, Kun Zhou, Xiangdong Zhang, Shibo Hao, **Yi Gu**, Jieyuan Liu, Somanshu Singla, Tianyang Liu, Eric P. Xing, Zhengzhong Liu, Haojian Jin, Zhiting Hu\
+***Blogpost*** [[Blog]](https://de-arena.maitrix.org) [[Leaderboard]](https://huggingface.co/spaces/LLM360/de-arena) [[GitHub]](https://github.com/maitrix-org/de-arena)
+
 <a name="k2"></a>
 **LLM360 K2-65B: Scaling Up Fully Transparent Open-Source LLMs**\
 Zhengzhong Liu, Bowen Tan, Hongyi Wang, Willie Neiswanger, Tianhua Tao, Haonan Li, Fajri Koto, Yuqi Wang, Suqi Sun, Omkar Pangarkar, Richard Fan, **Yi Gu**, Victor Miller, Liqun Ma, Liping Tang, Nikhil Ranjan, Yonghao Zhuang, Guowei He, Renxi Wang,Mingkai Deng, Robin Algayres, Yuanzhi Li, Zhiqiang Shen, Preslav Nakov, Eric Xing\
@@ -54,4 +58,4 @@ Rong Chang Scholarship in Technological Innovation, 2019\
 *Champion*, The International Collegiate Programming Contest (ICPC) 2018 Singapore Site
 
 
-<sub><sup>Updated on June 4, 2024</sup></sub>
+<sub><sup>Updated on Oct. 9, 2024</sup></sub>

@@ -22,6 +22,10 @@ Zhengzhong Liu, Bowen Tan, Hongyi Wang, Willie Neiswanger, Tianhua Tao, Haonan L
 Shibo Hao<sup>\*</sup>, **Yi Gu**<sup>\*</sup>, Haotian Luo<sup>\*</sup>, Tianyang Liu, Xiyan Shao, Xinyuan Wang, Shuhua Xie, Haodi Ma, Adithya Samavedhi, Qiyue Gao, Zhen Wang, Zhiting Hu\
 ***COLM 2024*** [[Website]](https://www.llm-reasoners.net) [[Library]](https://github.com/maitrix-org/llm-reasoners) [[Paper]](https://arxiv.org/abs/2404.05221)
 
+**Decentralized Arena via Collective LLM Intelligence: Building Automated, Robust, and Transparent LLM Evaluation for Numerous Dimensions**\
+Yanbin Yin, Zhen Wang, Kun Zhou, Xiangdong Zhang, Shibo Hao, **Yi Gu**, Jieyuan Liu, Somanshu Singla, Tianyang Liu, Eric P. Xing, Zhengzhong Liu, Haojian Jin, Zhiting Hu\
+***Blogpost*** [[Blog]](https://de-arena.maitrix.org) [[Leaderboard]](https://huggingface.co/spaces/LLM360/de-arena) [[GitHub]](https://github.com/maitrix-org/de-arena)
+
 **Text Grafting: Near-Distribution Weak Supervision for Minority Classes in Text Classification**\
 Letian Peng, **Yi Gu**, Chengyu Dong, Zihan Wang, Jingbo Shang\
 ***EMNLP 2024*** [[Paper]](https://arxiv.org/abs/2406.11115)
@@ -51,6 +55,8 @@ Mo Yu<sup>\*</sup>, **Yi Gu**<sup>\*</sup>, Xiaoxiao Guo, Yufei Feng, Xiaodan Zh
 **Finding Fallen Objects Via Asynchronous Audio-Visual Integration**\
 Chuang Gan<sup>\*</sup>, **Yi Gu**<sup>\*</sup>, Siyuan Zhou, Jeremy Schwartz, Seth Alter, James Traer, Dan Gutfreund, Joshua B. Tenenbaum, Josh McDermott<sup>\*</sup>, Antonio Torralba<sup>\*</sup>\
 ***CVPR 2022*** [[Paper]](https://arxiv.org/abs/2207.03483) [[Code]](https://github.com/chuangg/find_fallen_objects)
+
+Publications in the same year are sorted in my preference.
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
