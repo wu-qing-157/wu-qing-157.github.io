@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm Yi Gu (顾逸, gù yì), a third year Ph.D. student in Data Science at [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) of UC San Diego.
-I'm fortunate to be advised by [Prof. Zhiting Hu](https://zhiting.ucsd.edu).
+I'm Yi Gu (顾逸, gù yì), a final year Ph.D. student in Data Science at [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) of UC San Diego, advised by [Prof. Zhiting Hu](https://zhiting.ucsd.edu).
+I expect to graduate in Winter 2026.
 
 Prior to joining UCSD, I obtained my B.ENG. degree at [ACM Honors Class](https://acm.sjtu.edu.cn/home),
 [Shanghai Jiao Tong University](https://www.sjtu.edu.cn) in June 2022,
