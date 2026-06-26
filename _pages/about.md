@@ -7,25 +7,32 @@ redirect_from:
   - /about.html
 ---
 
-I'm Yi Gu (顾逸, gù yì), a final year Ph.D. student in Data Science at [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) of UC San Diego, advised by [Prof. Zhiting Hu](https://zhiting.ucsd.edu).
-I expect to graduate in Winter 2026.
+I'm Yi Gu (顾逸, gù yì), a Ph.D. student in Data Science at [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) of UC San Diego, advised by [Prof. Zhiting Hu](https://zhiting.ucsd.edu).
+I expect to graduate at the end of 2026.
 
 Prior to joining UCSD, I obtained my B.ENG. degree at [ACM Honors Class](https://acm.sjtu.edu.cn/home),
 [Shanghai Jiao Tong University](https://www.sjtu.edu.cn) in June 2022,
 advised by [Prof. Yong Yu](https://apex.sjtu.edu.cn/members/yyu).
 
-My research interest lies in foundational models and reasonings.
-In particular,
-I am recently working on the reasoning ability of nowadays LLMs ([RAP](#rap), [Reasoners](#reasoners)),
-and also building World Models ([Pandora](#pandora)),
-aiming for the next-generation machine reasoning beyond LLMs.
+My research interest lies in **foundational models** and **reasonings**.
+I currently working on **building World Models** ([PAN](#pan)) and related reasoning systems, aiming for the next-generation machine reasoning beyond LLMs.
+I focus more on the **ML-infra** starting from PAN project, including CUDA kernels, distributed systems, compiles and graphs, and detailed profiling, for both training and inference.
+Previously, I work on the **training algorithm** and **reasoning ability** of LLMs ([RAP](#rap), [Reasoners](#reasoners)) and world models (Pandora).
 
 Selected Publications
 ======
-<a name="pandora"></a>
-**Pandora: Towards General World Model with Natural Language Actions and Video States**\
-Jiannan Xiang\*, Guangyi Liu\*, **Yi Gu**\*, Qiyue Gao, Yuting Ning, Yuheng Zha, Zeyu Feng, Tianhua Tao, Shibo Hao, Yemin Shi, Zhengzhong Liu, Eric P. Xing, Zhiting Hu\
-***Preprint*** [[Website]](https://world-model.ai) [[YouTube]](https://www.youtube.com/watch?v=nSKqr1Fl91g) [[Code]](https://github.com/maitrix-org/Pandora) [[Paper]](https://world-model.maitrix.org/assets/pandora.pdf)
+<a name="pan"></a>
+**PAN: A World Model for General, Interactable, and Long-Horizon World Simulation**\
+PAN Team (Jiannan Xiang, **Yi Gu**, Zihan Liu, Zeyu Feng, Qiyue Gao, Yiyan Hu, Benhao Huang, Guangyi Liu, Yichi Yang, Kun Zhou, et al.)\
+***Preprint*** [[Website]](https://ifm.mbzuai.ac.ae/pan/) [[Paper]](https://arxiv.org/abs/2511.09057)
+
+**Accelerating Structured Chain-of-Thought in Autonomous Vehicles**\
+**Yi Gu**, Yan Wang, Yuxiao Chen, Yurong You, Wenjie Luo, Yue Wang, Wenhao Ding, Boyi Li, Heng Yang, Boris Ivanovic, Marco Pavone\
+***Preprint*** [[Paper]](https://arxiv.org/abs/2602.02864)
+
+**Efficient Long-context Language Model Training by Core Attention Disaggregation**\
+Yonghao Zhuang, Junda Chen, Bo Pang, **Yi Gu**, Yibo Zhu, Yimin Jiang, Ion Stoica, Eric Xing, Hao Zhang\
+***MLSys 2026*** [[Paper]](https://arxiv.org/abs/2510.18121) [[Code]](https://github.com/hao-ai-lab/DistCA)
 
 <a name="reasoners"></a>
 **LLM Reasoners: New Evaluation, Library, and Analysis of Step-by-Step Reasoning with Large Language Models**\
@@ -36,10 +43,6 @@ Shibo Hao\*, **Yi Gu**\*, Haotian Luo\*, Tianyang Liu, Xiyan Shao, Xinyuan Wang,
 **Reasoning with Language Model is Planning with World Model**\
 Shibo Hao\*, **Yi Gu**\*, Haodi Ma, Joshua Jiahua Hong, Zhen Wang, Daisy Zhe Wang, Zhiting Hu\
 ***EMNLP 2023*** [[Paper]](https://arxiv.org/abs/2305.14992) [[Code]](https://github.com/Ber666/RAP) [[State of AI Report 2023]](https://docs.google.com/presentation/d/156WpBF_rGvf4Ecg19oM1fyR51g4FAmHV3Zs0WLukrLQ/edit#slide=id.g24daeb7f4f0_0_3930)
-
-**Decentralized Arena via Collective LLM Intelligence: Building Automated, Robust, and Transparent LLM Evaluation for Numerous Dimensions**\
-Yanbin Yin, Zhen Wang, Kun Zhou, Xiangdong Zhang, Shibo Hao, **Yi Gu**, Jieyuan Liu, Somanshu Singla, Tianyang Liu, Eric P. Xing, Zhengzhong Liu, Haojian Jin, Zhiting Hu\
-***Blogpost*** [[Blog]](https://de-arena.maitrix.org) [[Leaderboard]](https://huggingface.co/spaces/LLM360/de-arena) [[GitHub]](https://github.com/maitrix-org/de-arena)
 
 <a name="k2"></a>
 **LLM360 K2-65B: Scaling Up Fully Transparent Open-Source LLMs**\
@@ -58,4 +61,4 @@ Rong Chang Scholarship in Technological Innovation, 2019\
 *Champion*, The International Collegiate Programming Contest (ICPC) 2018 Singapore Site
 
 
-<sub><sup>Updated on Oct. 9, 2024</sup></sub>
+<sub><sup>Updated on Jun. 25, 2026</sup></sub>

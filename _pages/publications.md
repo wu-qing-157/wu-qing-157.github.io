@@ -6,6 +6,29 @@ redirect_from:
 - /pub
 ---
 
+## 2026
+**Accelerating Structured Chain-of-Thought in Autonomous Vehicles**\
+**Yi Gu**, Yan Wang, Yuxiao Chen, Yurong You, Wenjie Luo, Yue Wang, Wenhao Ding, Boyi Li, Heng Yang, Boris Ivanovic, Marco Pavone\
+***Preprint*** [[Paper]](https://arxiv.org/abs/2602.02864)
+
+**Efficient Long-context Language Model Training by Core Attention Disaggregation**\
+Yonghao Zhuang, Junda Chen, Bo Pang, **Yi Gu**, Yibo Zhu, Yimin Jiang, Ion Stoica, Eric Xing, Hao Zhang\
+***MLSys 2026*** [[Paper]](https://arxiv.org/abs/2510.18121) [[Code]](https://github.com/hao-ai-lab/DistCA)
+
+## 2025
+<a name="pan"></a>
+**PAN: A World Model for General, Interactable, and Long-Horizon World Simulation**\
+PAN Team (Jiannan Xiang, **Yi Gu**, Zihan Liu, Zeyu Feng, Qiyue Gao, Yiyan Hu, Benhao Huang, Guangyi Liu, Yichi Yang, Kun Zhou, Davit Abrahamyan, Arif Ahmad, Ganesh Bannur, Junrong Chen, Kimi Chen, Mingkai Deng, Ruobing Han, Xinqi Huang, Haoqiang Kang, Zheqi Liu, Enze Ma, Hector Ren, Yashowardhan Shinde, Rohan Shingre, Ramsundar Tanikella, Kaiming Tao, Dequan Yang, Xinle Yu, Cong Zeng, Binglin Zhou, Zhengzhong Liu, Zhiting Hu, Eric P. Xing)\
+***Preprint*** [[Website]](https://ifm.mbzuai.ac.ae/pan/) [[Paper]](https://arxiv.org/abs/2511.09057)
+
+**Revisiting Reinforcement Learning for LLM Reasoning from A Cross-Domain Perspective**\
+Zhoujun Cheng, Shibo Hao, Tianyang Liu, Fan Zhou, Yutao Xie, Feng Yao, Yuexin Bian, Yonghao Zhuang, Nilabjo Dey, Yuheng Zha, **Yi Gu**, Kun Zhou, Yuqi Wang, Yuan Li, Richard Fan, Jianshu She, Chengqian Gao, Abulhair Saparov, Haonan Li, Taylor W. Killian, Mikhail Yurochkin, Zhengzhong Liu, Eric P. Xing, Zhiting Hu\
+***NeurIPS 2025*** [[Paper]](https://arxiv.org/abs/2506.14965)
+
+**Decentralized Arena: Towards Democratic and Scalable Automatic Evaluation of Language Models**\
+Yanbin Yin, Kun Zhou, Zhen Wang, Xiangdong Zhang, Yifei Shao, Shibo Hao, **Yi Gu**, Jieyuan Liu, Somanshu Singla, Tianyang Liu, Eric P. Xing, Zhengzhong Liu, Haojian Jin, Zhiting Hu\
+***Preprint*** [[Paper]](https://arxiv.org/abs/2505.12808)
+
 ## 2024
 <a name="pandora"></a>
 **Pandora: Towards General World Model with Natural Language Actions and Video States**\
