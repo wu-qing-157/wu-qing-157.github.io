@@ -9,7 +9,7 @@ redirect_from:
 
 I'm Yi Gu (顾逸, Gù Yì), a Ph.D. candidate in Data Science at [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) of UC San Diego, advised by [Prof. Zhiting Hu](https://zhiting.ucsd.edu).
 I expect to graduate at the end of 2026.
-I'm now a research scientist at [MBZUAI](https://mbzuai.ac.ae) [IFM](https://ifm.ai), advised by Hector Liu and Prof Eric Xing.
+I'm now a research scientist at, and during my Ph.D. work closely with [MBZUAI](https://mbzuai.ac.ae) [IFM](https://ifm.ai), advised by Hector Liu and Prof Eric Xing.
 
 Prior to joining UCSD, I obtained my B.ENG. degree at [ACM Honors Class](https://acm.sjtu.edu.cn/home),
 [Shanghai Jiao Tong University](https://www.sjtu.edu.cn) in June 2022,
