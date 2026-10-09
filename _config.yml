@@ -22,11 +22,11 @@ repository               : "wu-qing-157/wu-qing-157.github.io"
 author:
   # Biographic information
   avatar           : "avatar.png"
-  name             : "Yi Gu"
+  name             : "Yi Gu (顾逸)"
   pronouns         : "he/him/his"
-  bio              : "PhD student in Data Science"
-  location         : "San Diego, CA"
-  employer         : "UC San Diego"
+  bio              : "Research Scientist at IFM / Ph.D. Candidate at UCSD"
+  location         : "Sunnyvale, CA"
+  employer         : 
   uri              : # URL
   email            : "yig025 at ucsd dot edu"
 
