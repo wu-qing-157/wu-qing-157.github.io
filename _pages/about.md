@@ -20,9 +20,9 @@ I work on foundation models and reasoning.
 Selected Publications
 ======
 <a name="pan"></a>
-**PAN: A World Model for General, Interactable, and Long-Horizon World Simulation**\
-PAN Team (Zihan Liu, **Yi Gu**, Mingkai Deng, Guangyi Liu, Zeyu Feng, Qiyue Gao, Yiyan Hu, Benhao Huang, Yichi Yang, Kun Zhou, Jiannan Xiang, Zhiting Hu, Zhengzhong Liu, Eric P. Xing)\
-***Preprint*** [[Website]](https://ifm.mbzuai.ac.ae/pan/) [[Paper]](https://arxiv.org/abs/2511.09057)
+**PAN 2**\
+MBZUAI IFM PAN Team\
+[[Website]](https://ifm.ai/pan/) [[Weights]](https://huggingface.co/IFM/PAN2) [[vLLM-Omni]](https://recipes.vllm.ai/IFM/PAN2) <a role="link" aria-disabled="true" style="color: gray; cursor: not-allowed;">Paper coming soon</a> [[Code]](https://github.com/ifm-ai/PAN2)
 
 **Accelerating Structured Chain-of-Thought in Autonomous Vehicles**\
 **Yi Gu**, Yan Wang, Yuxiao Chen, Yurong You, Wenjie Luo, Yue Wang, Wenhao Ding, Boyi Li, Heng Yang, Boris Ivanovic, Marco Pavone\
@@ -44,8 +44,8 @@ Honors and Awards
 Zhiyuan Outstanding Student Scholarship, 2022\
 National Scholarship of P.R. China, 2021\
 Rong Chang Scholarship in Technological Innovation, 2019 and 2020\
-*Gold Medal*, The International Collegiate Programming Contest (ICPC) 2019 Xuzhou Site\
-*Champion*, The International Collegiate Programming Contest (ICPC) 2018 Singapore Site
+*Gold Medal*, the International Collegiate Programming Contest (ICPC) 2019 Xuzhou Site\
+*Champion*, the International Collegiate Programming Contest (ICPC) 2018 Singapore Site
 
 
-<sub><sup>Updated on Oct. 9, 2026</sup></sub>
+<sub><sup>Updated on Nov. 12, 2026</sup></sub>
