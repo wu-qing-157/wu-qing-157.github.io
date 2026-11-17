@@ -21,7 +21,7 @@ Selected Publications
 <a name="pan2"></a>
 **PAN 2**\
 MBZUAI IFM PAN Team\
-[[Website]](https://ifm.ai/pan/) [[Weights]](https://huggingface.co/IFM/PAN2) [[vLLM-Omni]](https://recipes.vllm.ai/IFM/PAN2) <a role="link" aria-disabled="true" style="color: gray; cursor: not-allowed;">Paper coming soon</a> [[Code]](https://github.com/ifm-ai/PAN2)
+[[Website]](https://ifm.ai/pan/) [[Weights]](https://huggingface.co/IFM/PAN2) [[vLLM-Omni]](https://recipes.vllm.ai/IFM/PAN2) <a role="link" aria-disabled="true" style="color: gray; cursor: not-allowed;">[Paper coming soon]</a> [[Code]](https://github.com/ifm-ai/PAN2)
 
 <!--
 **Accelerating Structured Chain-of-Thought in Autonomous Vehicles**\
