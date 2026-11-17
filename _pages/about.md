@@ -7,10 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. candidate in Data Science at [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) of UC San Diego, advised by [Prof. Zhiting Hu](https://zhiting.ucsd.edu).
-I expect to graduate at the end of 2026.
-I'm now a research scientist at, and during my Ph.D. work closely with [MBZUAI](https://mbzuai.ac.ae) [IFM](https://ifm.ai), advised by Hector Liu and Prof Eric Xing.
+I am a research scientist at, and during my Ph.D. work closely with [MBZUAI](https://mbzuai.ac.ae) [IFM](https://ifm.ai), advised by Hector Liu and Prof Eric Xing.
 
+I received my Ph.D. in Data Science from [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) of UC San Diego, advised by [Prof. Zhiting Hu](https://zhiting.ucsd.edu).
 Prior to joining UCSD, I obtained my B.ENG. degree at [ACM Honors Class](https://acm.sjtu.edu.cn/home),
 [Shanghai Jiao Tong University](https://www.sjtu.edu.cn) in June 2022,
 advised by [Prof. Yong Yu](https://apex.sjtu.edu.cn/members/yyu).
@@ -24,9 +23,11 @@ Selected Publications
 MBZUAI IFM PAN Team\
 [[Website]](https://ifm.ai/pan/) [[Weights]](https://huggingface.co/IFM/PAN2) [[vLLM-Omni]](https://recipes.vllm.ai/IFM/PAN2) <a role="link" aria-disabled="true" style="color: gray; cursor: not-allowed;">Paper coming soon</a> [[Code]](https://github.com/ifm-ai/PAN2)
 
+<!--
 **Accelerating Structured Chain-of-Thought in Autonomous Vehicles**\
 **Yi Gu**, Yan Wang, Yuxiao Chen, Yurong You, Wenjie Luo, Yue Wang, Wenhao Ding, Boyi Li, Heng Yang, Boris Ivanovic, Marco Pavone\
 ***Preprint*** [[Paper]](https://arxiv.org/abs/2602.02864)
+-->
 
 **Efficient Long-context Language Model Training by Core Attention Disaggregation**\
 Yonghao Zhuang, Junda Chen, Bo Pang, **Yi Gu**, Yibo Zhu, Yimin Jiang, Ion Stoica, Eric Xing, Hao Zhang\
