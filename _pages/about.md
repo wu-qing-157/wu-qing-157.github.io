@@ -18,7 +18,7 @@ I work on foundation models and reasoning.
 
 Selected Publications
 ======
-<a name="pan"></a>
+<a name="pan2"></a>
 **PAN 2**\
 MBZUAI IFM PAN Team\
 [[Website]](https://ifm.ai/pan/) [[Weights]](https://huggingface.co/IFM/PAN2) [[vLLM-Omni]](https://recipes.vllm.ai/IFM/PAN2) <a role="link" aria-disabled="true" style="color: gray; cursor: not-allowed;">Paper coming soon</a> [[Code]](https://github.com/ifm-ai/PAN2)
@@ -29,6 +29,7 @@ MBZUAI IFM PAN Team\
 ***Preprint*** [[Paper]](https://arxiv.org/abs/2602.02864)
 -->
 
+<a name="cad"></a>
 **Efficient Long-context Language Model Training by Core Attention Disaggregation**\
 Yonghao Zhuang, Junda Chen, Bo Pang, **Yi Gu**, Yibo Zhu, Yimin Jiang, Ion Stoica, Eric Xing, Hao Zhang\
 ***MLSys 2026*** [[Paper]](https://arxiv.org/abs/2510.18121) [[Code]](https://github.com/hao-ai-lab/DistCA)
